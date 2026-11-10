@@ -12,7 +12,9 @@
 [![Location](https://img.shields.io/badge/Based_in-Saudi_Arabia-247c96?style=for-the-badge)](#-experience-timeline--التاريخ-المهني)
 [![Languages](https://img.shields.io/badge/Languages-Arabic_%26_English-656cc9?style=for-the-badge)](#-education-training--languages)
 
-**[🌐 Portfolio](https://ahmedelkhateeb-tech.vercel.app/)** · **[✉️ Email](mailto:a7mdel5taeeb@gmail.com)** · **[💬 WhatsApp](https://wa.me/966564227074)**
+[![My Roadmap](https://img.shields.io/badge/🧭_EXPLORE_MY_ROADMAP-Strategy_·_Projects_·_Next_Steps-34bddb?style=for-the-badge)](ROADMAP.md)
+
+**[🌐 Portfolio](https://ahmedelkhateeb-tech.vercel.app/)** · **[🗺️ Roadmap](ROADMAP.md)** · **[✉️ Email](mailto:a7mdel5taeeb@gmail.com)** · **[💬 WhatsApp](https://wa.me/966564227074)**
 
 </div>
 
@@ -110,6 +112,18 @@ mindmap
 | **Design & productivity** | Photoshop, Microsoft 365, design systems, bilingual interfaces (Arabic RTL / English LTR) |
 
 *These are areas of experience and project use—not a claim of mastery of every tool or a computer-engineering academic degree.*
+
+## 🧭 Strategic roadmap | خارطة التطوير
+
+**Where experience meets execution.** My living roadmap connects professional development, logistics software, NASA-data research, school technology and portfolio improvements—with clear distinctions between what is working, under review and still planned.
+
+<div align="center">
+
+### [📍 EXPLORE THE FULL ROADMAP →](ROADMAP.md)
+
+[![Roadmap overview](https://img.shields.io/badge/CAREER_TO_PRODUCTS-View_Visual_Mermaid_Roadmap-255f7d?style=for-the-badge&logo=github&logoColor=white)](ROADMAP.md)
+
+</div>
 
 ## 🚀 Selected projects | مشروعات مختارة
 
